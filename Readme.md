@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [GlossarySample.aspx.vb](./CS/WebSite/GlossarySample.aspx.vb) (VB: [GlossarySample.aspx.vb](./VB/WebSite/GlossarySample.aspx.vb))
+<!-- default file list end -->
 # Glossary Sample
 
 
