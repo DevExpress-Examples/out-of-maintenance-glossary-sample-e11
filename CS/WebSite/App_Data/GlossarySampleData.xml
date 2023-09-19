@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<glossary>
-  <item id="ASPxPopupControl.PopupAction" text="Gets or sets a value that specifies which action forces the current popup window to appear." />
-  <item id="ASPxPopupControl.PopupElementID" text="Gets or sets the ID of a web control or HTML element with which the default popup window is associated." />
-</glossary>
